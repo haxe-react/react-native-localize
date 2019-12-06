@@ -1,0 +1,19 @@
+{
+    "name": "react-native-localize",
+    "license": "MIT",
+    "tags": [
+      "react",
+      "native",
+      "localize",
+      "internationalization"
+    ],
+    "classPath": "src",
+    "contributors": [
+      "zabojad"
+    ],
+    "releasenote": "Initial release",
+    "version": "1.0.0",
+    "url": "https://github.com/haxe-react/react-native-localize",
+    "dependencies": {
+    }
+  }
